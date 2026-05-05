@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Haat Barao |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/haat-barao/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> নিস্তব্ধ রাতে খুঁজি তোমার স্পর্শের মায়া
+> অচেনা আলোয় ঘোরে শুধু তোমার ছায়া
+> মাতাল এই হাওয়ায় মন আজ দিশাহারা
+> আকাশের নীল রঙে তুমি এক ধ্রুবতারা
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
