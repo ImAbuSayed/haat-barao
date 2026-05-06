@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/haat-barao/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Haat Barao](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
